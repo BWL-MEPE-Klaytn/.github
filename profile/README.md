@@ -1,10 +1,10 @@
 <img width="960" alt="thumb01" src="https://user-images.githubusercontent.com/57951295/195821327-16cc9b12-b71d-40a4-a145-727c626b248b.png">
 
-# MEPEKlay
-MEPEKlay is multi-wallet dashboard & web3 DAO community maker. By connecting one or more wallets from multiple chains to your personal dashboard, you can collect and view the assets (e.g. Tokens, NFTs, etc.) in the wallets. It allows you to easily make your community using NFTs and transfer tokens to your friends on the Klaytn ecosystem.
+# MEPEKLAY
+MEPEKLAY is multi-wallet dashboard & web3 DAO community maker. By connecting one or more wallets from multiple chains to your personal dashboard, you can collect and view the assets (e.g. Tokens, NFTs, etc.) in the wallets. It allows you to easily make your community using NFTs and transfer tokens to your friends on the Klaytn ecosystem.
 <br/><br/>
 # What It Does
-MEPE is a service for individuals and organizations that create Web 3.0 DAO communities. Users can easily create their own DAO community NFT and manage their communities & members. (e.g. buy me a coffee NFT, coupon, community membership, etc.) It provides an incredibly simple way to create membership NFTs without smart contracts and blockchain knowledge.
+MEPEKLAY is a service for individuals and organizations that create Web 3.0 DAO communities. Users can easily create their own DAO community NFT and manage their communities & members. (e.g. buy me a coffee NFT, coupon, community membership, etc.) It provides an incredibly simple way to create membership NFTs without smart contracts and blockchain knowledge.
 <br/><br/>
 # Features
 <img width="960" alt="thumb02" src="https://user-images.githubusercontent.com/57951295/195826531-4aea7f88-68d8-4a82-bf3c-7650d71b0560.png">
@@ -16,7 +16,7 @@ MEPE is a service for individuals and organizations that create Web 3.0 DAO comm
 - You can connect wallets of various chains, including Kaikas and Metamask, to the dashboard.
 
 **Issue NFTs**
-- MEPE supports Klaytn KIP-17 contract generation.
+- MEPEKLAY supports Klaytn KIP-17 contract generation.
 - Suites to all your membership or products you want to tokenize.
 
 **Sending tokens through a friend's profile**
