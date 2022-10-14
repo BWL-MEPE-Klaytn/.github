@@ -7,9 +7,9 @@ MEPEKlay is multi-wallet dashboard & web3 DAO community maker. By connecting one
 MEPE is a service for individuals and organizations that create Web 3.0 DAO communities. Users can easily create their own DAO community NFT and manage their communities & members. (e.g. buy me a coffee NFT, coupon, community membership, etc.) It provides an incredibly simple way to create membership NFTs without smart contracts and blockchain knowledge.
 <br/><br/>
 # Features
-<img width="960" alt="thumb02" src="https://user-images.githubusercontent.com/57951295/195821338-6c6473b0-12a3-4572-acab-00d8795ae271.png">
-<img width="960" alt="thumb03" src="https://user-images.githubusercontent.com/57951295/195821334-b0e533e6-e031-460d-8723-7d762eab288e.png">
-<img width="960" alt="thumb04" src="https://user-images.githubusercontent.com/57951295/195821333-75f4e24e-e31b-4820-b496-eb224cb4f1a7.png">
+<img width="960" alt="thumb02" src="https://user-images.githubusercontent.com/57951295/195826531-4aea7f88-68d8-4a82-bf3c-7650d71b0560.png">
+<img width="960" alt="thumb03" src="https://user-images.githubusercontent.com/57951295/195826525-8ee4ca49-84b0-4562-9339-6b2680e3ec9d.png">
+<img width="960" alt="thumb04" src="https://user-images.githubusercontent.com/57951295/195826520-ab0d313c-a567-465b-8471-ae1648876f29.png">
 
 **Personal Multi wallet Dashboard**
 - A nice dashboard where you can showcase your community and its crypto assets.
